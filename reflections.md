@@ -35,3 +35,19 @@ Off the top of my head (avoiding my notes), the following variables are:
 - help - get helpful suggestions! like "man" i suppose
 
 ### 1.4 Forking and Cloning Reflection
+
+Creating & Forking a repo!
+
+1. Create new / log into existing GitHub credentials
+
+2. To create a new repo, simply go to your profile page by clicking Your Profile from the upper-right dropdown, click Repositories, and click the bright green New button. Name & describe your repository, decide whether it's public or private, and click Create! Who even cares about license info!
+
+3. To fork a repo, find the master/original branch. You can use a variety of search methods, including either going through the owner's account or searching directly for the master repo. Then, just click the Fork icon on the upper right and select your username.
+
+4. Clone a repo to your computer (after having forked a branch to your GitHub account!) by first opening your command line shell (likely Terminal with Bash in it). Find or make a directory within your Phase 0 directory where you can keep your various repos using the commands we learned in the earlier CLI challenge. Once there, type "git clone <URL>" where <URL> is the link to your newly forked repo (omit the <>'s). Voila, cloned!
+
+Forking a repository is preferable to creating a new one as it takes exactly what appears in the master without room for error in reproduction.
+
+
+
+My main struggles setting up git & GitHub was the learning of new commands and the navigation, respectively. In GitHub, as with any new website layout, instinct from other "social whatever" pages from an old (or differently purposed) one does not match the new one. Having a silly, simple Tumblr page, even if you edit a teenie little bit of HTML on there, won't help you get a good navigational understanding of GitHub in mere moments! :)
